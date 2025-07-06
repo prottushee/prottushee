@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sirat E Afroz</h1>
+<h1 align="center">Hi, I'm Sirat</h1>
 <h3 align="center">Final-year IT Student | Tech Enthusiast</h3>
 
 ---
